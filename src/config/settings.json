@@ -1,0 +1,8 @@
+{
+  "base_url": "https://truthsocial.com",
+  "request_timeout": 15,
+  "max_retries": 3,
+  "backoff_factor": 0.5,
+  "log_level": "INFO",
+  "output_dir": "data"
+}
