@@ -1,0 +1,51 @@
+[
+  {
+    "input": "https://truthsocial.com/@realDonaldTrump",
+    "id": "107780257626128497",
+    "url": "https://truthsocial.com/@realDonaldTrump",
+    "username": "realDonaldTrump",
+    "displayName": "Donald J. Trump",
+    "description": "",
+    "website": "www.DonaldJTrump.com",
+    "avatar": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+    "header": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/headers/107/780/257/626/128/497/original/ba3b910ba387bf4e.jpeg",
+    "followersCount": 8366535,
+    "followingCount": 71,
+    "postsAndRepliesCount": 24289,
+    "createdAt": "2022-02-11T16:16:57.705Z",
+    "verified": true
+  },
+  {
+    "id": "113560838963769446",
+    "type": "post",
+    "accountId": "107780257626128497",
+    "username": "realDonaldTrump",
+    "createdAt": "2024-11-28T13:34:47.509Z",
+    "url": "https://truthsocial.com/@realDonaldTrump/113560838963769446",
+    "content": null,
+    "mediaAttachments": [
+      {
+        "id": "113560838939449294",
+        "type": "image",
+        "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/113/560/838/939/449/294/original/098be9d5bdb0c201.jpg",
+        "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/113/560/838/939/449/294/small/098be9d5bdb0c201.jpg"
+      }
+    ],
+    "repliesCount": 945,
+    "reblogsCount": 2040,
+    "favouritesCount": 9634
+  },
+  {
+    "id": "113478531114340760",
+    "type": "reply",
+    "accountId": "107780257626128497",
+    "username": "realDonaldTrump",
+    "createdAt": "2024-11-14T00:42:49.401Z",
+    "url": "https://truthsocial.com/@realDonaldTrump/113478531114340760",
+    "content": "Elon Musk is a great guy, loaded with personality and brainpower...",
+    "mediaAttachments": [],
+    "repliesCount": 2385,
+    "reblogsCount": 8835,
+    "favouritesCount": 45960
+  }
+]
